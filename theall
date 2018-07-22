@@ -1231,7 +1231,7 @@ printf "   | |  |  _ \| ___ |    | |______| |  | || |  \n"
 printf "   | |  | | | | ____|   | |________| | | || |  \n"
 printf "   |_|  |_| |_|_____)  |_|          |_||_||_|  v1.0\e[0m\n"
 printf "\n"
-printf "            \e[1;93m.:.\e[0m\e[1;92m Coded by\e[0m\e[1;77m  @thelinuxchoice \e[0m\e[1;93m.:.\e[0m\n"
+printf "            \e[1;93m.:.\e[0m\e[1;92m Coded by\e[0m\e[1;77m  Syafiqlim \e[0m\e[1;93m.:.\e[0m\n"
 printf "\n"                                                          
 
 
